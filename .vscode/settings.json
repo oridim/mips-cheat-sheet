@@ -1,0 +1,25 @@
+{
+  "[json]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[mips]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "AngaBlue.asm-formatter"
+  },
+  "[typst]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "myriad-dreamin.tinymist"
+  },
+  "tinymist.formatterMode": "typstyle",
+  "tinymist.formatterPrintWidth": 120,
+  "tinymist.lint.enabled": true
+}
